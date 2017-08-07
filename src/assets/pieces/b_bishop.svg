@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg7875" inkscape:version="0.92.1 r15371" sodipodi:docname="b_bishop.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 288 288"
+	 style="enable-background:new 0 0 288 288;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:4.9338;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:10;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="-84.285714" inkscape:cy="560" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1056" inkscape:window-maximized="1" inkscape:window-width="1855" inkscape:window-x="65" inkscape:window-y="24" inkscape:zoom="0.35" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="g5047" transform="translate(721.18393,-70.984076)">
+		<ellipse id="ellipse4604" class="st0" cx="-577.6" cy="215.3" rx="133.2" ry="129"/>
+		<g id="g4661">
+			<circle id="path4608" class="st1" cx="-577.2" cy="215" r="37.1"/>
+			<path id="path4610-6" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" class="st1" d="M-476,129
+				c30.7,71.9-90.8,111.4-101.2,67.6c0.3,11,112-12.4,62.1-96.3C-497.8,106-487.2,111.4-476,129z"/>
+		</g>
+		<ellipse id="ellipse4604-3" class="st2" cx="-577.2" cy="215" rx="135" ry="135"/>
+	</g>
+</g>
+</svg>
